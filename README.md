@@ -33,5 +33,15 @@
 12. 실습 - Cifar10 ver2 (데이터 부풀리기)
 
 ## 4. RNN (Recurrent Neural Network)
+1. SineWave - 문제: many-to-one 1
+2. SineWave - 문제: many-to-one 2
+3. 텍스트 생성 (Text Generate)
+4. 텍스트 생성 - 3 case: LSTM, SimpleRNN, GRU
+5. Simple RNN을 이용한 SMS Spam 분류
+6. LSTM - Reuters News 분류
+7. LSTM - 네이버 영화평 감성분석
+8. LSTM - 네이버 영화평 감성분석 (Conv1D + GRU)
+9. 공공 인공지능 API
+10. 
 
 ## 과제 
